@@ -1,0 +1,4 @@
+tinyelf
+tests/hello
+*.o
+build/
